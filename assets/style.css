@@ -1,0 +1,73 @@
+body {
+ 
+  font-size:  16px;
+  font-weight: 400;
+  background-color: #000000;
+
+}
+
+a {
+  color:  #ffffff;
+  text-decoration:  none;
+}
+
+section {
+  /*viewport height*/
+  height: 100vh;
+  background-image: url(./thomas-peham-f4TfjV-gE54-unsplash.jpg);
+  background-size:  cover; 
+  /*fix bg to viewport*/
+  background-attachment:  fixed;
+}
+
+header {
+  position:  fixed;
+  top:  20px;
+  left:  20px;
+}
+
+h1 {
+  font-size:  44px;
+  font-family:  "Alegreya Sans", sans-serif;
+  margin-bottom:  5px;
+  font-weight: 700;
+	background-color: rgb(255, 242, 0);
+	padding: 10px;
+  max-width:max-content;
+}
+
+
+p {
+  background-color: #ffffff;
+  font-weight: 100;
+  width: max-content;
+  padding: 10px;
+}
+
+footer {
+  position:  fixed;
+  bottom:  20px;
+  left:  20px;
+}
+
+footer a {
+  margin-right:  5px;
+}
+
+a:hover {
+  color: #dddddd;
+}
+
+.image_2{
+  background-image: url(./mikkel-jonck-schmidt-uUXB3EPgVp4-unsplash.jpg);
+}
+
+.image_3{
+  background-image: url(./steffen-muldbjerg-SmMVE8XpH90-unsplash.jpg);
+}
+
+.image_4{
+  background-image: url(./stephan-mahlke-pMZMmhK4P34-unsplash.jpg);
+}
+
+
