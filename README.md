@@ -1,6 +1,6 @@
 # css-photo-scroll
 
-## photo credits
+## photo credits (provisional)
 
 Mikkel Jönck Schmidt [Mikkel Jönck Schmidt](https://unsplash.com/@mikkel_schmidt?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 on [Unsplash](href="https://unsplash.com/photos/two-black-oil-platforms-uUXB3EPgVp4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) 
